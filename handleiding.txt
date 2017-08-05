@@ -1,0 +1,18 @@
+Algoritme om van de bodemkaart een meer publiekstoegankelijke kaart te maken.
+
+1) download de bodemkaart 1:50.000 van PDOK via atomfeeds https://www.pdok.nl/nl/producten/pdok-downloads/atomfeeds/b
+2) pak het GML bestand uit en laad deze in QGIS en zet deze om naar shape bodemkaart.shp en laad deze. 
+3) Verwijder de laag van het GML bestand.
+4) wijzig de code van veld VOOR1, VOOR2 en VOOR3 van e naar eM en eR door eerste letter van de BODEM1, BODEM2 en BODEM3 er achter te plakken via veldberekening. Alleen dan zal er een verschil kunnen worden gemaakt tussen de toekenning van de juiste informatie text behorende bij die e-code.
+5) laad nu achtereenvolgens de csv-tabellen bodem.csv, helling.csv, bovengrond.csv en ondergrond.csv. Voor bodem.csv is de tilde ~, gebruikt als scheidingsteken, voor de andere tabellen is de puntcomma ; gebruikt als scheidingsteken. Deze bestanden bevatten allemaal een kopregel, maar geen geometrie.
+6) Open de eigenschappen van de laag bodemkaart en koppel de tabellen bodem.csv aan BODEM1, helling.csv aan HELLING, bovengrond.csv aan VOOR1 en ondergrond.csv aan ACHTER1.
+7) Sla de laag bodemkaart op naar het bestand bodemkaart2.gpkg (formaat geopackage) en laad deze.
+8) Open de eigenschappen van de laag bodemkaart2 en koppel de tabellen bodem.csv aan BODEM2, bovengrond.csv aan VOOR2 en ondergrond.csv aan ACHTER2.
+9) Sla de laag bodemkaart2 op naar het bestand bodemkaart3.gpkg (formaat geopackage) en laad deze.
+10) Open de eigenschappen van de laag bodemkaart3 en koppel de tabellen bodem.csv aan BODEM3, bovengrond.csv aan VOOR3 en ondergrond.csv aan ACHTER3.
+11) Sla de laag bodemkaart3 op naar het bestand bodemkaart.gpkg (formaat geopackage) en laad deze. Controleer dat we nu voor alle velden met codes nu ook een goed beschrijven veld hebben.
+12) Verwijder de lagen bodemkaart2 en bodemkaart 3.
+13) Laad het stijlenbestand bodemkaart.qgl voor de laag bodemkaart. Hierna kun je ook de kaarttips en de actie gebruiken.
+
+De meer gebruikersvriendelijke bodemkaart is nu gereed! 
+

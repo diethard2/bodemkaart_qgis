@@ -1,0 +1,340 @@
+hVb hV b Koopveengronden op bosveen (of eutroofbroekveen)
+hVs hV s Koopveengronden op veenmosveen
+hVc hV c Koopveengronden op zeggeveen, rietzeggeveen of (mesotroof) broekveen
+hVr hV r Koopveengronden op rietveen of zeggerietveen
+hVd hV d Koopveengronden op bagger, verslagen veen, gyttja of andere veensoorten
+hVk hV k Koopveengronden op (meestal niet-gerijpte) zavel of klei, beginnend ondieper dan 120 cm
+hVz hV z Koopveengronden op zand, beginnend ondieper dan 120 cm
+hVb V Koopveengronden op bosveen (of eutroofbroekveen)
+hEV hEV Aarveengronden
+aVs aV s Madeveengronden op veenmosveen
+aVc aV c Madeveengronden op zeggeveen, rietzeggeveen of broekveen
+aVz aV z Madeveengronden op zand zonder humuspodzol, beginnend ondieper dan 120 cm
+aVp aV p Madeveengronden op zand met humuspodzol, beginnend ondieper dan 120 cm
+aEVs aEV s Boveengronden op veenmosveen (al dan niet op zand, beginnend ondieper dan 120 cm)
+aEVc aEV c Boveengronden op zeggeveen, rietzeggeveen of broekveen (al dan niet op zand, beginnend ondieper dan 120 cm)
+Vo Vo Vlietveengronden
+pVb pV b Weideveengronden op bosveen (of eutroof broekveen)
+pVs pV s Weideveengronden op veenmosveen
+pVc pV c Weideveengronden op zeggeveen, rietzeggeveen of (mesotroof) broekveen
+pVr pV r Weideveengronden op rietveen of zeggerietveen
+pVd pV d Weideveengronden op bagger, verslagen veen, gyttja of andere veensoorten
+pVk pV k Weideveengronden op (meestal niet-gerijpte) zavel of klei, beginnend ondieper dan 120 cm
+pVz pV z Weideveengronden op zand, beginnend ondieper dan 120 cm
+kVb kV b Waardveengronden op bosveen (of eutroof broekveen)
+kVs kV s Waardveengronden op veenmosveen
+kVc kV c Waardveengronden op zeggeveen, rietzeggeveen of (mesotroof) broekveen
+kVr kV r Waardveengronden op rietveen of zeggerietveen
+kVd kV d Waardveengronden op bagger, verslagen veen, gyttja of andere veensoorten
+kVk kV k Waardveengronden op (meestal niet-gerijpte) zavel of klei, beginnend ondieper dan 120 cm
+kVz kV z Waardveengronden op zand, beginnend ondieper dan 120 cm
+zVs zV s Meerveengronden op veenmosveen
+uVs uV s Meerveengronden; mineraal dek 5-8% lutum; veenmosveen
+zVc zV c Meerveengronden op zeggeveen. rietzeggeveen of broekveen
+uVc uV c Meerveengronden; mineraal dek 5-8% lutum; zeggeveen, rietzeggeveen of broekveen
+zVz zV z Meerveengronden op zand zonder humuspodzol, beginnend ondieper dan 120 cm
+uVz uV z Meerveengronden; mineraal dek 5-8% lutum; zand zonder humuspodzol, beginnend ondieper dan 120 cm
+zVp zV p Meerveengronden op zand met humuspodzol, beginnend ondieper dan 120 cm
+uVp uV p Meerveengronden; mineraal dek 5-8% lutum; zand met humuspodzol, beginnend ondieper dan 120 cm
+Vb V b Vlierveengronden op bosveen (of eutroof broekveen)
+Vs V s Vlierveengronden op veenmosveen
+Vc V c Vlierveengronden op zeggeveen, rietzeggeveen of (mesotroof) broekveen
+Vr V r Vlierveengronden op rietveen of zeggerietveen
+Vd V d Vlierveengronden op bagger, verslagen veen, gyttja of andere veensoorten
+Vk V k Vlierveengronden op (meestal niet-gerijpte) zavel of klei, beginnend ondieper dan 120 cm
+Vz V z Vlierveengronden op zand zonder humuspodzol, beginnend ondieper dan 120 cm
+Vp V p Vlierveengronden op zand met humuspodzol, beginnend ondieper dan 120 cm
+iVs iV s Veengronden met een veenkoloniaal dek op veenmosveen
+iVc iV c Veengronden met een veenkoloniaal dek op zeggeveen, rietzeggeveen of moerasbosveen
+iVz iV z Veengronden met een veenkoloniaal dek op zand zonder humuspodzol, beginnend ondieper dan 120 cm
+iVp iV p Veengronden met een veenkoloniaal dek op zand met humus podzol, beginnend ondieper dan 120 cm
+kWp Wp Moerige podzolgronden met een zavel- of een kleidek en een moerige tussenlaag
+vWp Wp Moerige podzolgronden met een moerige bovengrond
+zWp Wp Moerige podzolgronden met een humushoudend zanddek en een moerige tussenlaag
+uWp Wp Moerige podzolgronden met een mineraal dek 5-8% lutum en een moerige tussenlaag
+iWp Wp Moerige podzolgronden met een veenkoloniaal dek en een moerige tussenlaag
+Wp W Moerige eerdgronden met een zavel- of een kleidek en moerige tussenlaag op niet-gerijpte zavel of klei
+Wg W Moerige eerdgronden met een moerige bovengrond of moerige tussenlaag op gerijpte zavel of klei
+kWz W Moerige eerdgronden met een zavel- of kleidek en een moerige tussenlaag op zand
+zWz W Moerige eerdgronden met een zanddek en een moerige tussenlaag op zand
+uWz W Moerige eerdgronden met een mineraal dek 5-8% lutum en een moerige tussenlaag op zand
+vWz W Moerige eerdgronden met een moerige bovengrond op zand
+iWz W Moerige eerdgronden met een veenkoloniaal dek en een moerige tussenlaag op zand
+Y21 Y 21 Holtpodzolgronden; leemarm en zwak lemig fijn zand
+Y23 Y 23 Holtpodzolgronden; lemig fijn zand
+Y30 Y 30 Holtpodzolgronden; grof zand
+Y21b Y 21b Horstpodzolgronden; leemarm en zwak lemig fijn zand
+Y23b Y 23b Horstpodzolgronden; lemig fijn zand
+cY21 cY 21 Loopodzolgronden; leemarm en zwak lemig fijn zand
+cY23 cY 23 Loopodzolgronden; lemig fijn zand
+cY30 cY 30 Loopodzolgronden; grof zand
+Hn21 Hn 21 Veldpodzolgronden; leemarm en zwak lemig fijn zand
+Hn23 Hn 23 Veldpodzolgronden; lemig fijn zand
+Hn30 Hn 30 Veldpodzolgronden; grof zand
+cHn21 cHn 21 Laarpodzolgronden; leemarm en zwak lemig fijn zand
+cHn23 cHn 23 Laarpodzolgronden; lemig fijn zand
+cHn30 cHn 30 Laarpodzolgronden; grof zand
+Hd21 Hd 21 Haarpodzolgronden; leemarm en zwak lemig fijn zand
+Hd23 Hd 23 Haarpodzolgronden; lemig fijn zand
+Hd30 Hd 30 Haarpodzolgronden; grof zand
+cHd21 cHd 21 Kamppodzolgronden; leemarm en zwak lemig fijn zand
+cHd23 cHd 23 Kamppodzolgronden; lemig fijn zand
+cHd30 cHd 30 Kamppodzolgronden; grof zand
+BLn5 BLn 5 Kuilbrikgronden; zandige leem
+BLn6 BLn 6 Kuilbrikgronden; siltige leem
+BLh5 BLh 5 Daalbrikgronden; zandige leem
+BLh6 BLh 6 Daalbrikgronden; siltige leem
+BLd5 BLd 5 Radebrikgronden; zandige leem
+BLd6 BLd 6 Radebrikgronden; siltige leem
+BLb5 BLb 5 Bergbrikgronden; zandige leem
+BLb6 BLb 6 Bergbrikgronden; siltige leem
+BKn25 BKn 25 Kuilbrikgronden; fijnzandige lichte zavel
+BKn26 BKn 26 Kuilbrikgronden; fijnzandige, siltige, lichte zavel
+BKn35 BKn 35 Kuilbrikgronden; grofzandige lichte zavel
+BKh25 BKh 25 Daalbrikgronden; fijnzandige lichte zavel
+BKh26 BKh 26 Daalbrikgronden; fijnzandige, siltige, lichte zavel
+BKh35 BKh 35 Daalbrikgronden; grofzandige lichte zavel
+BKd25 BKd 25 Radebrikgronden; fijnzandige lichte zavel
+BKd26 BKd 26 Radebrikgronden; fijnzandige, siltige, lichte zavel
+BKd35 BKd 35 Radebrikgronden; grofzandige lichte zavel
+BZn24 BZn 24 Beemdbrikgronden; zeer sterk lemig fijn zand
+BZh24 BZh 24 Delbrikgronden; zeer sterk lemig fijn zand
+BZd23 BZd 23 Rooibrikgronden; zwak en sterk lemig fijn zand
+BZd24 BZd 24 Rooibrikgronden; zeer sterk lemig fijn zand
+EZg21 EZ 21 Lage enkeerdgronden; leemarm en zwak lemig fijn zand
+EZg23 EZ 23 Lage enkeerdgronden; lemig fijn zand
+EZg30 EZ 30 Lage enkeerdgronden; grof zand
+bEZ21 EZ 21 Hoge bruine enkeerdgronden; leemarm en zwak lemig fijn zand
+bEZ23 EZ 23 Hoge bruine enkeerdgronden; lemig fijn zand
+bEZ30 EZ 30 Hoge bruine enkeerdgronden; grof zand
+zEZ21 EZ 21 Hoge zwarte enkeerdgronden; leemarm en zwak lemig fijn zand
+zEZ23 EZ 23 Hoge zwarte enkeerdgronden; lemig fijn zand
+zEZ30 EZ 30 Hoge zwarte enkeerdgronden; grof zand
+EZ50A EZ 50 A Kalkhoudende enkeerdgronden; matig fijn zand
+EK16 EK 16 Tuineerdgronden; lichte zavel, profielverloop 3, of 3 en 4, of 4
+EK76 EK 76 Tuineerdgronden; zware zavel en klei, profielverloop 3, of 3 en 4, of 4
+EK19 EK 19 Tuineerdgronden; lichte zavel, profielverloop 5, of 5 en 2, of 2
+EK79 EK 79 Tuineerdgronden; zware zavel en klei, profielverloop 5, of 5 en 2, of 2
+EL5 EL 5 Tuineerdgronden; zandige leem
+pZg21 pZg 21 Beekeerdgronden; leemarm en zwak lemig fijn zand
+pZg23 pZg 23 Beekeerdgronden; lemig fijn zand
+pZg30 pZg 30 Beekeerdgronden; grof zand
+pZn21 pZn 21 Gooreerdgronden; leemarm en zwak lemig fijn zand
+pZn23 pZn 23 Gooreerdgronden; lemig fijn zand
+pZn30 pZn 30 Gooreerdgronden; grof zand
+tZd21 tZd 21 Kanteerdgronden; leemarm en zwak lemig fijn zand
+tZd23 tZd 23 Kanteerdgronden; lemig fijn zand
+tZd30 tZd 30 Kanteerdgronden; grof zand
+cZd21 cZd 21 Akkereerdgronden; leemarm en zwak lemig fijn zand
+cZd23 cZd 23 Akkereerdgronden; lemig fijn zand
+cZd30 cZd 30 Akkereerdgronden; grof zand
+Zn21 Zn 21 Vlakvaaggronden; leemarm en zwak lemig fijn zand
+Zn23 Zn 23 Vlakvaaggronden; lemig fijn zand
+Zn30 Zn 30 Vlakvaaggronden; grof zand
+Zd21 Zd 21 Duinvaaggronden; leemarm en zwak lemig fijn zand
+Zd23 Zd 23 Duinvaaggronden; lemig fijn zand
+Zd30 Zd 30 Duinvaaggronden; grof zand
+Zb21 Zb 21 Vorstvaaggronden; leemarm en zwak lemig fijn zand
+Zb23 Zb 23 Vorstvaaggronden; lemig fijn zand
+Zb30 Zb 30 Vorstvaaggronden; grof zand
+pZg10A pZg 10 A Kalkhoudende beekeerdgronden; uiterst fijn zand
+pZg20A pZg 20 A Kalkhoudende beekeerdgronden; zeer fijn en matig fijn zand
+Zn10A Zn 10 A Kalkhoudende vlakvaaggronden; uiterst fijn zand
+Zn40A Zn 40 A Kalkhoudende vlakvaaggronden; zeer fijn zand
+Zn50A Zn 50 A Kalkhoudende vlakvaaggronden; matig fijn zand
+Zn30A Zn 30 A Kalkhoudende vlakvaaggronden; grof zand
+Zd20A Zd 20 A Kalkhoudende duinvaaggronden; fijn zand
+Zd30A Zd 30 A Kalkhoudende duinvaaggronden; grof zand
+Zb20A Zb 20 A Kalkhoudende vorstvaaggronden; fijn zand
+Zb30A Zb 30 A Kalkhoudende vorstvaaggronden; grof zand
+Sn13A Sn 13 A Kalkhoudende vlakvaaggronden; zwak en sterk lemig, kleiig, uiterst fijn zand (in IJsselmeerpolders andere omschrijving)
+Sn14A Sn 14 A Kalkhoudende vlakvaaggronden; zeer sterk lemig, kleiig, uiterst fijn zand (in IJsselmeerpolders andere omschrijving)
+MOo02 MOo 2 Slikvaaggronden; zand beginnend ondieper dan 80 cm
+MOo05 MOo 5 Slikvaaggronden; geen zand beginnend ondieper dan 80 cm
+MOb12 MOb 12 Gorsvaaggronden; lichte zavel; zand beginnend ondieper dan 80 cm
+MOb72 MOb 72 Gorsvaaggronden; zware zavel en klei; zand beginnend ondieper dan 80 cm
+MOb15 MOb 15 Gorsvaaggronden; lichte zavel; geen zand beginnend ondieper dan 80 cm
+MOb75 MOb 75 Gorsvaaggronden; zware zavel en klei; geen zand beginnend ondieper dan 80 cm
+ROo02 ROo 2 Slikvaaggronden; zand beginnend ondieper dan 80 cm
+ROo05 ROo 5 Slikvaaggronden; geen zand beginnend ondieper dan 80 cm
+ROb12 ROb 12 Gorsvaaggronden; lichte zavel; zand beginnend ondieper dan 80 cm
+ROb72 ROb 72 Gorsvaaggronden; zware zavel en klei; zand beginnend ondieper dan 80 cm
+ROb15 ROb 15 Gorsvaaggronden; lichte zavel; geen zand beginnend ondieper dan 80 cm
+ROb75 ROb 75 Gorsvaaggronden; zware zavel en klei; geen zand beginnend ondieper dan 80 cm
+pMv51 pMv 51 Liedeerdgronden; zavel, profielverloop 1
+pMv81 pMv 81 Liedeerdgronden; klei, profielverloop 1
+pMo50 pMo 50 Tochteerdgronden; zavel
+pMo80 pMo 80 Tochteerdgronden; klei
+pMn52A pMn 52 A Kalkrijke leek-/woudeerdgronden; zavel, profielverloop 2
+pMn82A pMn 82 A Kalkrijke leek-/woudeerdgronden; klei, profielverloop 2
+pMn55A pMn 55 A Kalkrijke leek-/woudeerdgronden; zavel, profielverloop 5
+pMn85A pMn 85 A Kalkrijke leek-/woudeerdgronden; klei, profielverloop 5
+pMn52C pMn 52 C Kalkarme leek-/woudeerdgronden; zavel, profielverloop 2
+pMn82C pMn 82 C Kalkarme leek-/woudeerdgronden; klei, profielverloop 2
+pMn56C pMn 56 C Kalkarme leek-/woudeerdgronden; zavel, profielverloop 3, of 3 en 4, of 4
+pMn86C pMn 86 C Kalkarme leek-/woudeerdgronden; klei, profielverloop 3, of 3 en 4 of 4
+pMn55C pMn 55 C Kalkarme leek-/woudeerdgronden; zavel, profielverloop 5
+pMn85C pMn 85 C Kalkarme leek-/woudeerdgronden; klei, profielverloop 5
+pMd50 pMd 50 Hofeerdgronden; zavel
+pMd80 pMd 80 Hofeerdgronden; klei
+Mv51A Mv 51 A Kalkrijke drechtvaaggronden ; zavel, profielverloop 1
+Mv81A Mv 81 A Kalkrijke drechtvaaggronden; klei, profielverloop 1
+Mv61C Mv 61 C Kalkarme drechtvaaggronden; zavel en lichte klei, profielverloop 1
+Mv41C Mv 41 C Kalkarme drechtvaaggronden; zware klei, profielverloop 1
+Mo10A Mo 10 A Kalkrijke nesvaaggronden; lichte zavel
+Mo20A Mo 20 A Kalkrijke nesvaaggronden; zware zavel
+Mo80A Mo 80 A Kalkrijke nesvaaggronden; klei
+Mo50C Mo 50 C Kalkarme nesvaaggronden; zavel
+Mo80C Mo 80 C kalkarme nesvaaggronden; klei
+Mn12A Mn 12 A Kalkrijke poldervaaggronden; lichte zavel, profielverloop 2
+Mn22A Mn 22 A Kalkrijke poldervaaggronden; zware zavel, profielverloop 2
+Mn82A Mn 82 A Kalkrijke poldervaaggronden; klei, profielverloop 2
+Mn56A Mn 56 A Kalkrijke poldervaaggronden; zavel, profielverloop 3, of 3 en 4 of 4
+Mn86A Mn 86 A Kalkrijke poldervaaggronden; klei, profielverloop 3, of 3 en 4, of 4
+Mn15A Mn 15 A Kalkrijke poldervaaggronden; lichte zavel, profielverloop 5
+Mn25A Mn 25 A Kalkrijke poldervaaggronden; zware zavel, profielverloop 5
+Mn35A Mn 35 A Kalkrijke poldervaaggronden; lichte klei, profielverloop 5
+Mn45A Mn 45 A Kalkrijke poldervaaggronden; zware klei, profielverloop 5
+Mn52C Mn 52 C Kalkarme poldervaaggronden; zavel, profielverloop 2
+Mn82C Mn 82 C Kalkarme poldervaaggronden; klei, profielverloop 2
+Mn56C Mn 56 C Kalkarme poldervaaggronden; zavel, profielverloop 3, of 3 en 4, of 4
+Mn86C Mn 86 C Kalkarme poldervaaggronden; klei, profielverloop 3, of 3 en 4, of 4
+Mn15C Mn 15 C Kalkarme poldervaaggronden; lichte zavel, profielverloop 5
+Mn25C Mn 25 C Kalkarme poldervaaggronden; zware zavel, profielverloop 5
+Mn85C Mn 85 C Kalkarme poldervaaggronden; klei, profielverloop 5
+gMn52C gMn 52 C Knippige poldervaaggronden; zavel, profielverloop 2
+gMn82C gMn 82 C Knippige poldervaaggronden; klei, profielverloop 2
+gMn53C gMn 53 C Knippige poldervaaggronden; zavel, profielverloop 3
+gMn58C gMn 58 C Knippige poldervaaggronden; zavel, profielverloop 4, of 4 en 3
+gMn83C gMn 83 C Knippige poldervaaggronden; klei, profielverloop 3
+gMn88C gMn 88 C Knippige poldervaaggronden; klei, profielverloop 4, of 4 en 3
+gMn15C gMn 15 C Knippige poldervaaggronden; lichte zavel, profielverloop 5
+gMn25C gMn 25 C Knippige poldervaaggronden; zware zavel, profielverloop 5
+gMn85C gMn 85 C Knippige poldervaaggronden; klei, profielverloop 5
+kMn63C kMn 63 C Knippoldervaaggronden; zavel en lichte klei, profielverloop 3
+kMn68C kMn 68 C Knippoldervaaggronden; zavel en lichte klei, profielverloop 4, of 4 en 3
+kMn43C kMn 43 C Knippoldervaaggronden; zware klei, profielverloop 3
+kMn48C kMn 48 C Knippoldervaaggronden; zware klei, profielverloop 4, of 4 en 3
+Md10 Md 10 Ooivaaggronden; lichte zavel
+Md20 Md 20 Ooivaaggronden; zware zavel
+Md80 Md 80 Ooivaaggronden; klei
+pRv51 pRv 51 Liedeerdgronden; zavel, profielverloop 1
+pRv81 pRv 81 Liedeerdgronden; klei, profielverloop 1
+pRn56 pRn 56 Leek-/woudeerdgronden; zavel, profielverloop 3, of 3 en 4, of 4
+pRn86 pRn 86 Leek-/woudeerdgronden; klei, profielverloop 3, of 3 en 4, of 4
+pRn59 pRn 59 Leek-/woudeerdgronden; zavel, profielverloop 5, of 5 en 2, of 2
+pRn89 pRn 89 Leek-/woudeerdgronden; klei, profielverloop 5, of 5 en 2, of 2
+Rv01A Rv 1 A Kalkhoudende drechtvaaggronden; profielverloop 1
+Rv01C Rv 1 C Kalkloze drechtvaaggronden; profielverloop 1
+Ro60A Ro 60 A Kalkhoudende nesvaaggronden; zavel en lichte klei
+Ro40A Ro 40 A Kalkhoudende nesvaaggronden; zware klei
+Ro60C Ro 60 C Kalkloze nesvaaggronden; zavel en lichte klei
+Ro40C Ro 40 C Kalkloze nesvaaggronden; zware klei
+Rn52A Rn 52 A Kalkhoudende poldervaaggronden; zavel, profielverloop 2
+Rn82A Rn 82 A Kalkhoudende poldervaaggronden; klei, profielverloop 2
+Rn66A Rn 66 A Kalkhoudende poldervaaggronden; zavel en lichte klei, profielverloop 3, of 3 en 4, of 4
+Rn46A Rn 46 A Kalkhoudende poldervaaggronden; zware klei, profielverloop 3, of 3 en 4 , of 4
+Rn15A Rn 15 A Kalkhoudende poldervaaggronden; lichte zavel, profielverloop 5
+Rn95A Rn 95 A Kalkhoudende poldervaaggronden; zware zavel en lichte klei, profielverloop 5
+Rn45A Rn 45 A Kalkhoudende poldervaaggronden; zware klei, profielverloop 5
+Rn62C Rn 62 C Kalkloze poldervaaggronden; zavel en lichte klei, profielverloop 2
+Rn42C Rn 42 C Kalkloze poldervaaggronden; zware klei, profielverloop 2
+Rn14C Rn 14 C Kalkloze poldervaaggronden; lichte zavel, profielverloop 4
+Rn67C Rn 67 C Kalkloze poldervaaggronden; zavel en lichte klei, profielverloop 3, of 3 en 4
+Rn94C Rn 94 C Kalkloze poldervaaggronden; zware zavel en lichte klei, profielverloop 4
+Rn47C Rn 47 C Kalkloze poldervaaggronden; zware klei, profielverloop 3, of 3 en 4
+Rn44C Rn 44 C Kalkloze poldervaaggronden; zware klei, profielverloop 4
+bRn46C bRn 46 C Kalkloze poldervaaggronden (bruine komgrond); zware klei, profielverloop 3, of 3 en 4, of 4
+Rn15C Rn 15 C Kalkloze poldervaaggronden; lichte zavel, profielverloop 5
+Rn95C Rn 95 C Kalkloze poldervaaggronden; zware zavel en lichte klei, profielverloop 5
+Rn45C Rn 45 C Kalkloze poldervaaggronden; zware klei, profielverloop 5
+Rd10A Rd 10 A Kalkhoudende ooivaaggronden; lichte zavel
+Rd90A Rd 90 A Kalkhoudende ooivaaggronden; zware zavel en lichte klei
+Rd40A Rd 40 A Kalkhoudende ooivaaggronden; zware klei
+Rd10C Rd 10 C Kalkloze ooivaaggronden; lichte zavel
+Rd90C Rd 90 C Kalkloze ooivaaggronden; zware zavel en lichte klei
+Rd40C Rd 40 C Kalkloze ooivaaggronden; zware klei
+pKRn1 pKRn 1 Leek-/woudeerdgronden; lichte zavel
+pKRn2 pKRn 2 Leek-/woudeerdgronden; zware zavel
+pKRn8 pKRn 8 Leek-/woudeerdgronden; klei
+KRn1 KRn 1 Poldervaaggronden; lichte zavel
+KRn2 KRn 2 Poldervaaggronden; zware zavel
+KRn8 KRn 8 Poldervaaggronden; klei
+KRd1 KRd 1 Ooivaaggronden, lichte zavel
+KRd7 KRd 7 Ooivaaggronden; zware zavel en klei
+pLn5 pLn 5 Leek-/woudeerdgronden; zandige leem; colluvium in dal
+pLn6 pLn 6 Leek-/woudeerdgronden; siltige leem; colluvium in dal
+Ln5 Ln 5 Poldervaaggronden; zandige leem in situ
+Ln6 Ln 6 Poldervaaggronden; siltige leem in situ
+Lnd5 Lnd 5 Poldervaaggronden; zandige leem; colluvium in dal
+Lnd6 Lnd 6 Poldervaaggronden; siltige leem; colluvium in dal
+Lnh5 Lnh 5 Poldervaaggronden; zandige leem; colluvium in hellingvoet of uitspoelingswaaier
+Lnh6 Lnh 6 Poldervaaggronden; siltige leem; colluvium in hellingvoet of uitspoelingswaaier
+Lh5 Lh 5 Ooivaaggronden met roest beginnend tussen 50 en 80 cm; zandige leem in situ
+Lh6 Lh 6 Ooivaaggronden met roest beginnend tussen 50 en 80 cm; siltige leem in situ
+Ld5 Ld 5 Ooivaaggronden met roest beginnend dieper dan 80 cm; zandige leem in situ
+Ld6 Ld 6 Ooivaaggronden met roest beginnend dieper dan 80 cm; siltige leem in situ
+Ldd5 Ldd 5 Ooivaaggronden met roest beginnend dieper dan 80 cm; zandige leem; colluvium in dal
+Ldd6 Ldd 6 Ooivaaggronden met roest beginnend dieper dan 80 cm; siltige leem; colluvium in dal
+Ldh5 Ldh 5 Ooivaaggronden met roest beginnend dieper dan 80 cm; zandige leem; colluvium in hellingvoet of uitspoelingswaaier
+Ldh6 Ldh 6 Ooivaaggronden met roest beginnend dieper dan 80 cm; siltige leem; colluvium in hellingvoet of uitspoelingswaaier
+MA M Mariene afzettingen ouder dan pleistoceen; glauconietklei
+MK M Mariene afzettingen ouder dan pleistoceen; zavel en klei
+MZk M Mariene afzettingen ouder dan pleistoceen; fijn zand en zavel
+MZz M Mariene afzettingen ouder dan pleistoceen; fijn zand
+FG F Fluviatiele afzettingen ouder dan laat-pleistoceen; grind en grof zand
+FK F Fluviatiele afzettingen ouder dan laat-pleistoceen; zavel en klei
+KM K Ondiep kalksteen
+KK KK Kleefaarde
+KS KS Vuursteen eluvium
+KX KX Zeer ondiepe keileem, potklei, enz
+KT KT Overige kleigronden
+G1 G 1 Grindgronden
+AAK AAK Afgegraven kleigronden
+AAP AAP Aangemaakte petgaten
+ABH ABH Brunsumer-heidegronden
+ABk ABk Kleiige beekdalgronden
+ABl ABl Lossige beekdalgronden
+ABv ABv Venige beekdalgronden
+ABz ABz Zandige beekdalgronden
+AD AD Duin- en kweldergronden
+AEk9 AE 9 Geëgal. en verw. zeekleigronden zonder veen binnen 120 cm; zw. zavel en l. klei
+AEm5 AE 5 Geëgal. en verw. zeekleigronden met plaats. veen binnen 120 cm; zavel
+AEm8 AE 8 Geëgal. en verw. zeekleigronden met plaats. veen binnen 120 cm; klei
+AEm9 AE 9 Geëgal. en verw. zeekleigronden met plaats. veen binnen 120 cm; zw. zavel en l. klei
+AEm9A AE 9 A Geëgal. en verw. zeekleigronden met plaats. veen binnen 120 cm of met niet-ger. ondergrond; zw. zavel en l. klei
+AEp6A AE 6 A Geëgal. en verw. zeekleigronden (eerd- en vaaggronden met ger. ondergrond); zavel en l. klei, kalkrijk
+AEp7A AE 7 A Geëgal. en verw. zeekleigronden (eerd- en vaaggronden met ger. ondergrond); zw. zavel en klei,kalkrijk
+AFk AF Roodoornige kleiige Vechtdalgronden
+AFz AF Roodoornige zandige Vechtdalgronden
+AGm9C AGm 9 C Hollebollige, gemoerde zeekleigronden; zw. zavel en l. klei
+AHa AHa Glauconiethellinggronden
+AHb AHb Breukhellinggronden
+AHc AHc Loss-, terras- en kalksteenhellinggronden
+AHk AHk Kalksteenhellinggronden
+AHl AHl Loss- en terrashellinggronden
+AHs AHs Vuursteenhellinggronden
+AHt AHt Terrashellinggronden
+AHv AHv Terras-,tertiair-,kalksteen- en veenhellinggronden
+AHz AHz Loss-,tertiair- en terrashellinggronden
+AK AK Kreekbeddingen
+ALu ALu Linge-uiterwaardgronden
+AM AM Mengelgronden
+AMm AMm Gronden in oude maasmeanders
+AO AO Overslaggronden
+AP AP Petgaten
+AQ AQ Met huisvuil opgehoogde gronden
+AR AR Roergronden
+AS AS Stuifzandgronden
+AVk AVk Veenafbraakgebied
+AVo AVo Veen in ontginning
+AWg AW Warmoezerijgronden (gerijpt)
+AWo AW Warmoezerijgronden (ongerijpt)
+AWv AW Warmoezerijgronden (veen)
+AZ1 AZ 1 Strandwalgronden
+AZW0A AZW 0 A Wieringermeergronden; zand, kalkrijk
+AZW1A AZW 1 A Wieringermeergronden; zand en lichte zavel, kalkrijk
+AZW5A AZW 5 A Wieringermeergronden; zand en zavel, kalkrijk
+AZW6A AZW 6 A Wieringermeergronden; zavel en klei, kalkrijk
+AZW7A AZW 7 A Wieringermeergronden; zware zavel en klei, kalkrijk
+AZW8A AZW 8 A Wieringermeergronden; klei, kalkrijk
