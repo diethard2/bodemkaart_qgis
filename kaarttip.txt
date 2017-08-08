@@ -1,0 +1,22 @@
+<img src = "[% @project_folder %]/bodemkaart_banner.jpg"/>
+<br>
+<b> Bodemcode: </b> [% "BODEMCODE" %]
+[% CASE WHEN  "HELLING" IS NOT NULL
+      THEN CONCAT( '<br><b>Hellingspercentage: </b>', "HELLING", ' ',"helling_info") END %]
+[% CONCAT( '<br><b>Bodem1: </b>', "BODEM1", ' ', "bodem1_omschrijving")%]
+[%CASE WHEN "VOOR1" IS NOT NULL
+      THEN CONCAT( '; Bovengrond: ', "VOOR1", ' ', "bovengrond1_info") END %]
+[%CASE WHEN "ACHTER1" IS NOT NULL
+      THEN CONCAT( '; Ondergrond: ', "ACHTER1", ' ', "ondergrond1_info") END %]
+[% CASE WHEN "BODEM2" IS NOT NULL 
+      THEN CONCAT( '<br><b>Bodem2: </b>', "BODEM2", ' ',"bodem2_omschrijving") END %]
+[%CASE WHEN "VOOR2" IS NOT NULL
+      THEN CONCAT( '; Bovengrond: ', "VOOR2", ' ',"bovengrond2_info") END %]
+[%CASE WHEN "ACHTER2" IS NOT NULL
+      THEN CONCAT( '; Ondergrond: ', "ACHTER2", ' ',"ondergrond2_info") END %]
+[% CASE WHEN "BODEM3" IS  NOT NULL 
+      THEN CONCAT( '<br><b>Bodem3: </b>', "BODEM3", ' ', "bodem3_omschrijving") END %]
+[%CASE WHEN "VOOR3" IS NOT NULL
+      THEN CONCAT( '; Bovengrond: ', "VOOR3", ' ',"bovengrond3_info") END %]
+[%CASE WHEN "ACHTER3" IS NOT NULL
+      THEN CONCAT( '; Ondergrond: ', "ACHTER3", ' ',"ondergrond3_info") END %]
