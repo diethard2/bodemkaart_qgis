@@ -1,0 +1,187 @@
+{
+    "values": {
+        "inputs": {
+            "VECTORLAYER_GMLBODEM50": {
+                "values": {
+                    "pos": {
+                        "values": {
+                            "y": 60.0, 
+                            "x": 120.0
+                        }, 
+                        "class": "point"
+                    }, 
+                    "param": {
+                        "values": {
+                            "isAdvanced": false, 
+                            "name": "VECTORLAYER_GMLBODEM50", 
+                            "shapetype": [
+                                2
+                            ], 
+                            "value": null, 
+                            "exported": null, 
+                            "hidden": false, 
+                            "optional": false, 
+                            "description": "bodemkaart1"
+                        }, 
+                        "class": "processing.core.parameters.ParameterVector"
+                    }
+                }, 
+                "class": "processing.modeler.ModelerAlgorithm.ModelerParameter"
+            }
+        }, 
+        "helpContent": {}, 
+        "group": "pdok", 
+        "name": "bodemkaart", 
+        "algs": {
+            "QGISREFACTORFIELDS_1": {
+                "values": {
+                    "name": "QGISREFACTORFIELDS_1", 
+                    "paramsFolded": true, 
+                    "outputs": {}, 
+                    "outputsFolded": true, 
+                    "pos": {
+                        "values": {
+                            "y": 100.0, 
+                            "x": 413.0
+                        }, 
+                        "class": "point"
+                    }, 
+                    "dependencies": [], 
+                    "params": {
+                        "INPUT_LAYER": {
+                            "values": {
+                                "name": "VECTORLAYER_GMLBODEM50"
+                            }, 
+                            "class": "processing.modeler.ModelerAlgorithm.ValueFromInput"
+                        }, 
+                        "FIELDS_MAPPING": "[{'type': 2, 'length': 10, 'expression': u'OBJECTID', 'name': u'OBJECTID', 'precision': 0}, {'type': 10, 'length': 20, 'expression': u'BODEMCODE', 'name': u'BODEMCODE', 'precision': 0}, {'expression': u'HELLING', 'length': 2, 'type': 10, 'name': u'HELLING', 'precision': 0}, {'expression': u'BODEM1', 'length': 10, 'type': 10, 'name': u'BODEM1', 'precision': 0}, {'expression': u'VOOR1', 'length': 2, 'type': 10, 'name': u'VOOR1', 'precision': 0}, {'type': 10, 'length': 3, 'expression': u'ACHTER1', 'name': u'ACHTER1', 'precision': 0}, {'type': 10, 'length': 10, 'expression': u'BODEM2', 'name': u'BODEM2', 'precision': 0}, {'expression': u'VOOR2', 'length': 2, 'type': 10, 'name': u'VOOR2', 'precision': 0}, {'type': 10, 'length': 3, 'expression': u'ACHTER2', 'name': u'ACHTER2', 'precision': 0}, {'type': 10, 'length': 10, 'expression': u'BODEM3', 'name': u'BODEM3', 'precision': 0}, {'type': 10, 'length': 2, 'expression': u'VOOR3', 'name': u'VOOR3', 'precision': 0}, {'type': 10, 'length': 3, 'expression': u'ACHTER3', 'name': u'ACHTER3', 'precision': 0}]"
+                    }, 
+                    "active": true, 
+                    "consoleName": "qgis:refactorfields", 
+                    "description": "Refactor fields"
+                }, 
+                "class": "processing.modeler.ModelerAlgorithm.Algorithm"
+            }, 
+            "QGISFIELDCALCULATOR_2": {
+                "values": {
+                    "name": "QGISFIELDCALCULATOR_2", 
+                    "paramsFolded": true, 
+                    "outputs": {}, 
+                    "pos": {
+                        "values": {
+                            "y": 264.0, 
+                            "x": 250.0
+                        }, 
+                        "class": "point"
+                    }, 
+                    "outputsFolded": true, 
+                    "dependencies": [], 
+                    "params": {
+                        "FIELD_TYPE": 2, 
+                        "NEW_FIELD": false, 
+                        "INPUT_LAYER": {
+                            "values": {
+                                "alg": "QGISFIELDCALCULATOR_1", 
+                                "output": "OUTPUT_LAYER"
+                            }, 
+                            "class": "processing.modeler.ModelerAlgorithm.ValueFromOutput"
+                        }, 
+                        "FIELD_PRECISION": 0.0, 
+                        "FIELD_LENGTH": 2.0, 
+                        "FORMULA": "if(\"VOOR2\" = 'e', 'e' +  substr( \"BODEM2\", 1, 1),  \"VOOR2\")", 
+                        "FIELD_NAME": "VOOR2"
+                    }, 
+                    "active": true, 
+                    "consoleName": "qgis:fieldcalculator", 
+                    "description": "Field calculator 2"
+                }, 
+                "class": "processing.modeler.ModelerAlgorithm.Algorithm"
+            }, 
+            "QGISFIELDCALCULATOR_3": {
+                "values": {
+                    "name": "QGISFIELDCALCULATOR_3", 
+                    "paramsFolded": true, 
+                    "outputs": {
+                        "OUTPUT_LAYER": {
+                            "values": {
+                                "description": "bodemkaart2", 
+                                "pos": {
+                                    "values": {
+                                        "y": 429.0, 
+                                        "x": 507.0
+                                    }, 
+                                    "class": "point"
+                                }
+                            }, 
+                            "class": "processing.modeler.ModelerAlgorithm.ModelerOutput"
+                        }
+                    }, 
+                    "outputsFolded": true, 
+                    "pos": {
+                        "values": {
+                            "y": 357.0, 
+                            "x": 307.0
+                        }, 
+                        "class": "point"
+                    }, 
+                    "dependencies": [], 
+                    "params": {
+                        "FIELD_TYPE": 2, 
+                        "NEW_FIELD": false, 
+                        "INPUT_LAYER": {
+                            "values": {
+                                "alg": "QGISFIELDCALCULATOR_2", 
+                                "output": "OUTPUT_LAYER"
+                            }, 
+                            "class": "processing.modeler.ModelerAlgorithm.ValueFromOutput"
+                        }, 
+                        "FIELD_PRECISION": 0.0, 
+                        "FIELD_LENGTH": 2.0, 
+                        "FORMULA": "if(\"VOOR3\" = 'e', 'e' +  substr( \"BODEM3\", 1, 1),  \"VOOR3\")", 
+                        "FIELD_NAME": "VOOR3"
+                    }, 
+                    "active": true, 
+                    "consoleName": "qgis:fieldcalculator", 
+                    "description": "Field calculator 3"
+                }, 
+                "class": "processing.modeler.ModelerAlgorithm.Algorithm"
+            }, 
+            "QGISFIELDCALCULATOR_1": {
+                "values": {
+                    "name": "QGISFIELDCALCULATOR_1", 
+                    "paramsFolded": true, 
+                    "outputs": {}, 
+                    "pos": {
+                        "values": {
+                            "y": 183.0, 
+                            "x": 209.0
+                        }, 
+                        "class": "point"
+                    }, 
+                    "outputsFolded": true, 
+                    "dependencies": [], 
+                    "params": {
+                        "FIELD_TYPE": 2, 
+                        "NEW_FIELD": false, 
+                        "INPUT_LAYER": {
+                            "values": {
+                                "alg": "QGISREFACTORFIELDS_1", 
+                                "output": "OUTPUT_LAYER"
+                            }, 
+                            "class": "processing.modeler.ModelerAlgorithm.ValueFromOutput"
+                        }, 
+                        "FIELD_PRECISION": 0.0, 
+                        "FIELD_LENGTH": 2.0, 
+                        "FORMULA": "if(\"VOOR1\" = 'e', 'e' +  substr( \"BODEM1\", 1, 1),  \"VOOR1\")", 
+                        "FIELD_NAME": "VOOR1"
+                    }, 
+                    "active": true, 
+                    "consoleName": "qgis:fieldcalculator", 
+                    "description": "Field calculator 1"
+                }, 
+                "class": "processing.modeler.ModelerAlgorithm.Algorithm"
+            }
+        }
+    }, 
+    "class": "processing.modeler.ModelerAlgorithm.ModelerAlgorithm"
+}
