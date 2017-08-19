@@ -56,6 +56,7 @@ uWp~Moerige podzolgronden met een mineraal dek 5-8% lutum en een moerige tussenl
 iWp~Moerige podzolgronden met een veenkoloniaal dek en een moerige tussenlaag~Wp~moerige podzolgronden~Podzolgronden
 Wp~Moerige eerdgronden met een zavel- of een kleidek en moerige tussenlaag op niet-gerijpte zavel of klei~W~moerige eerdgronden~Eerdgronden
 Wg~Moerige eerdgronden met een moerige bovengrond of moerige tussenlaag op gerijpte zavel of klei~W~moerige eerdgronden~Eerdgronden
+Wo~Moerige eerdgronden met een moerige bovengrond of moerige tussenlaag op niet-gerijpte zavel of klei~W~moerige eerdgronden~Eerdgronden
 kWz~Moerige eerdgronden met een zavel- of kleidek en een moerige tussenlaag op zand~W~moerige eerdgronden~Eerdgronden
 zWz~Moerige eerdgronden met een zanddek en een moerige tussenlaag op zand~W~moerige eerdgronden~Eerdgronden
 uWz~Moerige eerdgronden met een mineraal dek 5-8% lutum en een moerige tussenlaag op zand~W~moerige eerdgronden~Eerdgronden
@@ -143,8 +144,11 @@ pZg20A~Kalkhoudende beekeerdgronden; zeer fijn en matig fijn zand~pZg~beekeerdgr
 Zn10A~Kalkhoudende vlakvaaggronden; uiterst fijn zand~Zn~vlakvaaggronden~Vaaggronden
 Zn40A~Kalkhoudende vlakvaaggronden; zeer fijn zand~Zn~vlakvaaggronden~Vaaggronden
 Zn50A~Kalkhoudende vlakvaaggronden; matig fijn zand~Zn~vlakvaaggronden~Vaaggronden
+Zn50A~Kalkhoudende vlakvaaggronden, matig fijn zand met ontkalkte bovengrond~Zn~vlakvaaggronden~Vaaggronden
 Zn30A~Kalkhoudende vlakvaaggronden; grof zand~Zn~vlakvaaggronden~Vaaggronden
+Zn30Ab~Kalkhoudende vlakvaaggronden, grof zand met ontkalkte bovengrond~Zn~vlakvaaggronden~Vaaggronden
 Zd20A~Kalkhoudende duinvaaggronden; fijn zand~Zd~duinvaaggronden~Vaaggronden
+Zd20Ab~Kalkhoudende duinvaaggronden; fijn zand met ontkalkte bovengrond~Zd~duinvaaggronden~Vaaggronden
 Zd30A~Kalkhoudende duinvaaggronden; grof zand~Zd~duinvaaggronden~Vaaggronden
 Zb20A~Kalkhoudende vorstvaaggronden; fijn zand~Zb~vorstvaaggronden~Vaaggronden
 Zb30A~Kalkhoudende vorstvaaggronden; grof zand~Zb~vorstvaaggronden~Vaaggronden
