@@ -9,4 +9,3 @@ This manual will also refer to csv files that will also be provided on this site
 First the soil map is decrypted (adding readable text) and than I will provide additional functionality for QGIS to make the information available to the user in a sensible way!
 
 Diethard Jansen
-GIS-hulp
